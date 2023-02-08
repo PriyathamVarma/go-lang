@@ -6,3 +6,8 @@
 - Simplicity
 - Faster Compile Times
 - Garbage Collected
+- Built-in concurrency primitives
+- Compile to standalone binaries
+
+## useful resources
+
