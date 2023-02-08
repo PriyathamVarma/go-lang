@@ -2,19 +2,25 @@
 package main
 
 // Imports
-import "fmt"
+import (
+	"log"
+	"time"
+)
 
 // Functions
 func main() {
 
-	cards := []string{newCard(), newCard()} // declaring an array
-	cards = append(cards, "New record")     // pushing values to an array
+	//cards := []string{newCard(), newCard()} // declaring an array
+	// cards := deck{newCard(), newCard()}
+	// cards = append(cards, "New record") // pushing values to an array
+	// Timing the code
+	start := time.Now()
 
-	for i, card := range cards {
+	cards := newDeck()
+	cards.print()
 
-		fmt.Println(i, card)
-
-	}
+	elapsed := time.Since(start)
+	log.Printf("Time taken to execute", elapsed)
 
 }
 
