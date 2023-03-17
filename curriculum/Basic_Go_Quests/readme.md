@@ -58,4 +58,8 @@ go run hello.go
 
 ```
 
+Steps
 
+1. Go to the official website of Go and download the latest version of [Go](https://go.dev/dl/).
+2. Install the downloaded file and set up your Go workspace.
+3.
