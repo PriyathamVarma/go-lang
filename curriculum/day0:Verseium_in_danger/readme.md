@@ -2,7 +2,7 @@
 
 In a distant land, there was a powerful metal called Verseium. This metal had magical properties that could be harnessed to create powerful weapons and magical wands. For generations, the people of this land had used Verseium to protect themselves against dark forces that threatened their way of life.
 
-<img src="/assets/" alt=""/>
+<img src="/assets/go_land.png" alt=""/>
 
 One day, a young apprentice named Eron discovered a cache of Verseium metal hidden deep in the forest. Eron knew that this metal was too valuable to keep to himself, so he decided to share his discovery with the world. Eron realized that the best way to share his knowledge was to teach others how to create powerful weapons and magical wands using Verseium.
 
