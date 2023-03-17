@@ -1,5 +1,7 @@
 # Go Programming
 
+<img src="./assets/Go.png" alt="learn Go"/>
+
 > Go (also known as Golang) is a programming language that was developed by Google in 2007. It has gained popularity over the years due to its simplicity, performance, and ease of use. Here are some of the benefits of using Go programming:
 
 <h1 style="color:blue">Benefits of Go Programming</h1>
