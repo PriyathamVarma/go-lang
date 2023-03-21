@@ -17,10 +17,10 @@ The King is impressed with their work and awards them with a special medal of ho
 | [Task 1: Pointers](./pointers.go)     | Learn about GO pointers. | 100 XP |
 | [Task 2: Goroutines](./goroutines.go) | Learn about GO routines. | 100 XP |
 | [Task 3: Channels](./channels.go)     | Learn about GO channels. | 100 XP |
-| [Task 4: Errors](./errors.go)         | Learn about GO errors.   | 100 XP |
-| [Task 5: Interfaces](./interfaces.go) | Learn about GO errors.   | 100 XP |
-| [Task 6: Defer](./defer.go)           | Learn about GO defer.    | 100 XP |
-| [Task 7: Panic](./panic.go)           | Learn about GO panic.    | 100 XP |
-| [Task 8: Recover](./recover.go)       | Learn about GO recover.  | 100 XP |
-| [Task 9: Select](./select.go)         | Learn about GO select.   | 100 XP |
-| [Task 10: Mutex](./mutex.go)          | Learn about GO mutex.    | 100 XP |
+| [Task 4: Mutex](./mutexes.go)         | Learn about GO mutex.    | 100 XP |
+| [Task 5: Errors](./errors.go)         | Learn about GO errors.   | 100 XP |
+| [Task 6: Interfaces](./interfaces.go) | Learn about GO errors.   | 100 XP |
+| [Task 7: Defer](./defer.go)           | Learn about GO defer.    | 100 XP |
+| [Task 8: Panic](./panic.go)           | Learn about GO panic.    | 100 XP |
+| [Task 9: Recover](./recover.go)       | Learn about GO recover.  | 100 XP |
+| [Task 10: Select](./select.go)        | Learn about GO select.   | 100 XP |
