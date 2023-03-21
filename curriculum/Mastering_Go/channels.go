@@ -76,12 +76,19 @@ func main(){
 
 /*
 
-With this change, each function call would run concurrently and communicate through channels, allowing for multiple products to be produced at the same time and ensuring that each stage received the correct input.
+With this change, each function call would run concurrently and communicate through channels, allowing for multiple products 
+to be produced at the same time and ensuring that each stage received the correct input.
 
-As Alice and Eron continued to experiment with Go channels, they realized that they could apply this concept to their security system. They could use channels to coordinate the efforts of the different goroutines that were monitoring different areas of the castle and ensure that they were communicating effectively to respond to the attackers' attack.
+As Alice and Eron continued to experiment with Go channels, they realized that they could apply this concept to their security system. 
+They could use channels to coordinate the efforts of the different goroutines that were monitoring different areas of the castle and ensure 
+that they were communicating effectively to respond to the attackers' attack.
 
-With their newfound knowledge of Go channels and the power of concurrency, Alice and Eron worked together to quickly implement a new security system that used channels to coordinate the efforts of the different goroutines. They were able to respond to the attackers' attack and prevent them from breaching the security system.
+With their newfound knowledge of Go channels and the power of concurrency, Alice and Eron worked together to quickly implement 
+a new security system that used channels to coordinate the efforts of the different goroutines. They were able to respond to the attackers' 
+attack and prevent them from breaching the security system.
 
-Through their experience with Go channels and the challenges they faced, Alice and Eron learned about the importance of effective communication and synchronization between goroutines in a programming project. They also learned the importance of being able to quickly adapt to new challenges and come up with innovative solutions to protect the kingdom and its valuable Verseium metal.
+Through their experience with Go channels and the challenges they faced, Alice and Eron learned about the importance of effective
+ communication and synchronization between goroutines in a programming project. They also learned the importance of being able to 
+ quickly adapt to new challenges and come up with innovative solutions to protect the kingdom and its valuable Verseium metal.
 
 */
