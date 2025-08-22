@@ -1,6 +1,6 @@
 # 🟢 Input & Output in Go (`fmt` package)
 
-The `fmt` package is used for **printing, scanning, and formatting strings**.
+The `fmt` package is used for **printing, scanning, and formatting strings**
 
 ---
 
