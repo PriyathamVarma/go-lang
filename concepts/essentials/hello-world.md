@@ -22,16 +22,21 @@ func Add(a int, b int) int {
 Now in your main program:
 
 ```go
+// file: app.go
 package main
 
 import (
-    "fmt"
-    "myapp/mathutils"  // import your own package
+	"fmt"
+	"basic/first-app/mathutils" // ✅ matches go.mod + folder path
 )
 
 func main() {
-    fmt.Println(mathutils.Add(2, 3)) // prints 5
+	fmt.Print("Hello world,\n")
+
+	result := mathutils.Add(10, 20)
+	fmt.Println("10 + 20 =", result)
 }
+
 ```
 
 👉 Why?
