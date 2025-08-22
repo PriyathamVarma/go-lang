@@ -97,5 +97,15 @@ A step-by-step roadmap to master Go basics 🚀 and then apply it to **Hyperledg
   import "github.com/hyperledger/fabric-contract-api-go/contractapi"
   ```
 
+---
+
+## 📖 Go Language Essentials
+
+| Topic                 | Link                                                                 |
+|------------------------|----------------------------------------------------------------------|
+| 🟢 Hello World         | [hello-world.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/hello-world.md) |
+| 🔢 Data Types          | [data-types.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/data-types.md) |
+| ✍️ Alternative Variables | [alternative-variables.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/alternative-variables.md) |
+
 
 
