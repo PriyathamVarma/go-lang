@@ -117,5 +117,12 @@ Hello World
 * `go mod init` → to tell Go “this is my project, here’s its name”.
 
 ---
+```go
+basic/
+└── first-app/
+    │── go.mod
+    │── app.go
+    └── mathutils/
+        └── math.go
+```
 
-👉 Do you want me to extend your **Hello World lesson** with a **“Why Section”** (like above) so you have both *code + reasoning* in your notes?
