@@ -97,12 +97,5 @@ A step-by-step roadmap to master Go basics 🚀 and then apply it to **Hyperledg
   import "github.com/hyperledger/fabric-contract-api-go/contractapi"
   ```
 
----
 
-## 🚀 Final Takeaway
-
-1. **Learn Go fundamentals first** (syntax, types, structs, functions).
-2. **Practice JSON & struct handling** → essential for Fabric assets.
-3. **Move to Hyperledger Fabric** imports and contracts.
-4. **Build smart contracts** (Init, Invoke, Query).
 
