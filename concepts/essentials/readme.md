@@ -106,6 +106,6 @@ A step-by-step roadmap to master Go basics 🚀 and then apply it to **Hyperledg
 | 🟢 Hello World         | [hello-world.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/hello-world.md) |
 | 🔢 Data Types          | [data-types.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/data-types.md) |
 | ✍️ Alternative Variables | [alternative-variables.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/alternative-variables.md) |
-
+| Formatting | [formatting.md](https://github.com/PriyathamVarma/go-lang/edit/main/concepts/essentials/formatting.md) |
 
 
