@@ -109,5 +109,6 @@ A step-by-step roadmap to master Go basics 🚀 and then apply it to **Hyperledg
 | Formatting | [formatting.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/formatting.md) |
 | Functions | [functions.md](https://github.com/PriyathamVarma/go-lang/tree/main/concepts/essentials) | 
 | Arrays | [arrays.md](http://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/arrays.md) |
+| Conditionals | [conditionals.md](https://github.com/PriyathamVarma/go-lang/blob/main/concepts/essentials/conditionals.md) |
 
 
