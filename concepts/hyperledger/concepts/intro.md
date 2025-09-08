@@ -72,6 +72,26 @@ flowchart TD
 
 ````
 
+```mermaid
+flowchart TD
+    subgraph Org1["Organization 1"]
+        Peer1["Peer"]
+        DB1["World State DB (Replica)"]
+        Peer1 --> DB1
+    end
+
+    subgraph Org2["Organization 2"]
+        Peer2["Peer"]
+        DB2["World State DB (Replica)"]
+        Peer2 --> DB2
+    end
+
+    Orderer["Ordering Service"]
+
+    Peer1 <--> Orderer
+    Peer2 <--> Orderer
+```
+
 * **Chaincode**: deployed to peers, executes business logic.
 * **SDK/API**: submits proposals → gets endorsements → sends to orderer → block created → peers validate + commit.
 
